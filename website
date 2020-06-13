@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Samia Gharbi</title>
+<title> Social Life </title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -21,7 +21,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
   <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Account Settings"><i class="fa fa-user"></i></a>
   <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Messages"><i class="fa fa-envelope"></i></a>
   <div class="w3-dropdown-hover w3-hide-small">
-    <button class="w3-button w3-padding-large" title="Notifications"><i class="fa fa-bell"></i><span class="w3-badge w3-right w3-small w3-green">3</span></button>     
+    <button class="w3-button w3-padding-large" title="Notifications"><i class="fa fa-bell"></i><span class="w3-badge w3-right w3-small w3-green">997549</span></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="width:300px">
       <a href="#" class="w3-bar-item w3-button">One new friend request</a>
       <a href="#" class="w3-bar-item w3-button">John Doe posted on your wall</a>
@@ -52,9 +52,10 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       <div class="w3-card w3-round w3-white">
         <div class="w3-container">
          <h4 class="w3-center">My Profile</h4>
-         <p class="w3-center"><img src= "https://imgshare.io/image/N2RxXc" class="w3-circle" style="height:106px;width:150px" alt="Selfportait Samia"></p>
-         <hr>
-         <p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i> Student, CE</p>
+         <p class="w3-center">
+         <img src="https://imgshare.io/images/2020/06/13/foto.jpg" alt="foto.jpg" border="0" style="height:106px;width:106px></a></p>
+         <hr> 
+        <p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i> Student, CE</p>
          <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i> Amsterdam, NL</p>
          <p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i> November 12, 1987</p>
         </div>
@@ -103,14 +104,14 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       <!-- Interests --> 
       <div class="w3-card w3-round w3-white w3-hide-small">
         <div class="w3-container">
-          <p>Interests</p>
+          <p><strong>Interests</strong></p>
           <p>
             <span class="w3-tag w3-small w3-theme-d5">Webdevelopment</span>
             <span class="w3-tag w3-small w3-theme-d3">Art</span>
             <span class="w3-tag w3-small w3-theme">Beauty</span>
             <span class="w3-tag w3-small w3-theme-l2">Food</span>
             <span class="w3-tag w3-small w3-theme-l3">Design</span>
-            <span class="w3-tag w3-small w3-theme-l4">Art</span>
+            <span class="w3-tag w3-small w3-theme-l4">Health</span>
             <span class="w3-tag w3-small w3-theme-l5">Photos</span>
           </p>
         </div>
@@ -123,7 +124,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
           <i class="fa fa-remove"></i>
         </span>
         <p><strong>Hey!</strong></p>
-        <p> Someone is stalking you! Want to know who?</p>
+        <p> Someone is watching you! Want to know who?</p>
       </div>
     
     <!-- End Left Column -->
@@ -136,8 +137,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
         <div class="w3-col m12">
           <div class="w3-card w3-round w3-white">
             <div class="w3-container w3-padding">
-              <h6 class="w3-opacity">Social Media template by w3.css</h6>
-              <p contenteditable="true" class="w3-border w3-padding">Status: Feeling motivated!</p>
+              <p contenteditable="true" class="w3-border w3-padding"><strong>Status:</strong>Feeling inspired!</p>
               <button type="button" class="w3-button w3-theme"><i class="fa fa-pencil"></i>  Post</button> 
             </div>
           </div>
@@ -147,7 +147,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       <div class="w3-container w3-card w3-white w3-round w3-margin"><br>
         <img src="/w3images/avatar2.png" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
         <span class="w3-right w3-opacity">1 min</span>
-        <h4>Samia Gharbi</h4><br>
+        <h4>Nina Mo</h4><br>
         <hr class="w3-clear">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           <div class="w3-row-padding" style="margin:0 -16px">
@@ -191,9 +191,9 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
     <div class="w3-col m2">
       <div class="w3-card w3-round w3-white w3-center">
         <div class="w3-container">
-          <p>Upcoming Events:</p>
+          <p><strong>Upcoming Events:</strong></p>
           <img src="/w3images/forest.jpg" alt="Forest" style="width:100%;">
-          <p><strong>Holiday</strong></p>
+          <p> Holiday</p>
           <p>Friday 15:00</p>
           <p><button class="w3-button w3-block w3-theme-l4">Info</button></p>
         </div>
@@ -202,9 +202,9 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       
       <div class="w3-card w3-round w3-white w3-center">
         <div class="w3-container">
-          <p>Friend Request</p>
+          <p><strong>Friend Request</strong></p>
           <img src="/w3images/avatar6.png" alt="Avatar" style="width:50%"><br>
-          <span>Jane Doe</span>
+          <span> Mia Irgiz </span>
           <div class="w3-row w3-opacity">
             <div class="w3-half">
               <button class="w3-button w3-block w3-green w3-section" title="Accept"><i class="fa fa-check"></i></button>
